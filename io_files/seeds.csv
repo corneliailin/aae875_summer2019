@@ -1,0 +1,7 @@
+farmer_id,seed_type,price (in $),quantity (50 lb bags),production_year
+1,Conv,56,10,2018
+1,GM,111,5,2018
+2,GM,125,20,2019
+2,Conv,55,10,2018
+2,Conv,55,10,2018
+2,Conv,55,10,2018222
