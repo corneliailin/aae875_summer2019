@@ -2,3 +2,11 @@ Hello world!
 
 This is the first time I open a text file in Python.
 
+
+Hello again!
+
+H
+e
+ll
+o
+
